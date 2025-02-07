@@ -5,4 +5,7 @@ public class JavaClass {
   22222222222222;
   asdfasdfasdfasddfasdfasdf;
   2222222222222;
+  1111111111111111111;
+  asdfasdfsdfasdf;
+  111111111111111111111;
 }
